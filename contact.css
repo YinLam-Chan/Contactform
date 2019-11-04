@@ -1,3 +1,4 @@
+
 .input{
     display: block;
     margin-left: 2rem;
@@ -18,4 +19,16 @@ label{
     background-color: blue;
     margin-top: 1.5rem;
     margin-left: 30rem;
+
+.footer{
+    position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background-color:gray;
+  color:black;
+  text-align: center;
+.jumbotron {
+    text-align: center;
+
 }
