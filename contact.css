@@ -1,4 +1,12 @@
 
+.footer{
+    position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background-color:gray;
+  color:black;
+  text-align: center;
 .jumbotron {
     text-align: center;
 }
