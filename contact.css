@@ -19,6 +19,7 @@ label{
     background-color: blue;
     margin-top: 1.5rem;
     margin-left: 30rem;
+}
 
 .footer{
     position: fixed;
@@ -28,6 +29,8 @@ label{
   background-color:gray;
   color:black;
   text-align: center;
+}
+
 .jumbotron {
     text-align: center;
 
